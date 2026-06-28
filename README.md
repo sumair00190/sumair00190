@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi, I'm Muhammad Sumair 👋
 
-<!--
-**sumair00190/sumair00190** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Cybersecurity Student | Aspiring SOC Analyst
+🌍 Karachi, Pakistan
+🎓 Sir Syed University of Engineering & Technology
+🔵 Blue Team Enthusiast
 
-Here are some ideas to get you started:
+🛡️ Skills
+- Network Security
+- Kali Linux & Linux Hardening
+- Wireshark & Packet Analysis
+- SOC Fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Currently Learning
+- TryHackMe (Pre-Security Path)
+- CompTIA Security+ (Preparing)
+- ISC2 CC Certification (Free)
+
+## 🔗 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sumair--soc-blue)](https://linkedin.com/in/sumair-soc)
+📧 Email: sumairsohail234@gmail.com
+
+---
+💡 "Security is not a product, but a process." - Bruce Schneier
