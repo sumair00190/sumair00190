@@ -1,9 +1,6 @@
 # Hi, I'm Muhammad Sumair 👋
 
-🔐 Cybersecurity Student | Aspiring SOC Analyst
-🌍 Karachi, Pakistan
-🎓 Sir Syed University of Engineering & Technology
-🔵 Blue Team Enthusiast
+BS CNS Student @ SSUET | Network Security & Systems | Linux, Wireshark, Bash Automation | SOC Analysis | Blue Team
 
 ## 🛡️ Skills
 - Network Security
