@@ -30,9 +30,10 @@ I am a Computer Network & Security student dedicated to mastering defensive cybe
 
 ## 📚 Active Learning & Certifications
 
-* 🧪 **Hands-on Labs:** TryHackMe (SOC Level 1 / Cyber Defense), OverTheWire (Bandit Completed)
+* 🧪 **Hands-on Labs:** PortSwigger Web Security Academy (in progress), TryHackMe, OverTheWire (Bandit Completed)
 * 📜 **Certification Path:** Preparing for **CompTIA Security+** & **ISC2 CC**
-* 🚀 **Next Up:** SIEM Deployment (Splunk / Elastic) & Enterprise Log Analysis
+* 🚀 **Currently:** Web Application Security (PortSwigger Web Security Academy, Burp Suite)
+* 🔭 **Later:** Attack & Detect Lab with Splunk
 
 ---
 
