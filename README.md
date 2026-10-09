@@ -42,9 +42,11 @@ I am a Computer Network & Security student dedicated to mastering defensive cybe
 * **[Network-Security-Labs](https://github.com/sumair00190/Network-Security-Labs)**  
   *Detailed writeups and incident-style documentation for Wireshark malware traffic captures (Lumma Stealer, Kongtuke ClickFix), Nmap scanning workflows, and CTF challenges.*
 
+* **[OverTheWire-Natas-Solutions](https://github.com/sumair00190/OverTheWire-Natas-Solutions)**  
+  *Walkthroughs, detailed writeups, and concept notes for OverTheWire Natas web application security wargame.*
+
 * **[OverTheWire-Bandit-Solutions](https://github.com/sumair00190/OverTheWire-Bandit-Solutions)**  
   *Complete walkthroughs, solutions, and command cheat-sheet for Linux CLI fundamentals and privilege navigation (OverTheWire Bandit).*
-
 ---
 
 ## Let's Connect
