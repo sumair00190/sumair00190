@@ -1,57 +1,36 @@
 # Muhammad Sumair
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sumair-soc)
+**Aspiring SOC Analyst | BS Computer Network & Security Student @ SSUET**
 
-**Aspiring SOC Analyst & Security Researcher** | BS CNS Student @ SSUET  
-*Focusing on Network Forensics, Malware Traffic Analysis, Threat Detection & Blue Team Operations.*
+I am a first-semester student in SSUET's 2026 batch, based in Karachi. My main focus is defensive cybersecurity: understanding network traffic, investigating suspicious activity, and documenting findings with evidence.
 
----
+## Practical experience
 
-## About Me
-I am a Computer Network & Security student dedicated to mastering defensive cybersecurity operations. My hands-on focus revolves around packet analysis, network enumeration, and dissecting malware traffic captures to identify C2 communication and IOCs.
+- **Network analysis:** Wireshark packet filtering, HTTP/TCP stream inspection, and malware-traffic lab writeups.
+- **Network enumeration:** Nmap scanning and service-enumeration practice.
+- **Linux:** Command-line practice through the completed OverTheWire Bandit wargame.
+- **Web security:** Completed OverTheWire Natas; practiced HTTP request inspection and manipulation with Burp Suite.
+- **CTFs and labs:** TryHackMe RootMe and network-security exercises.
 
-* **Currently Building:** Detailed PCAP analysis writeups and network defense labs.
-* **Career Goal:** Open for **Remote SOC Analyst (L1)** roles, **Blue Team Internships**, and **Cybersecurity Apprenticeships**.
-* **Methodology:** Practical lab-first approach documented through structured incident reports.
+These are learning projects and lab experience, not professional SOC employment.
 
----
+## Current learning plan
 
-## Technical Skillset
+- Continue network-forensics investigations and evidence-based writeups.
+- Build Python fundamentals for understanding and maintaining security tools.
+- Work through a structured PortSwigger Web Security Academy path, starting with SQL injection.
+- Progress to Windows/Linux log analysis, SIEM searches, and alert triage.
 
-| Category | Tools & Capabilities |
-| :--- | :--- |
-| **Network & Traffic Analysis** | Wireshark, TCPdump, HTTP/TCP Stream Analysis, PCAP Forensics, Defanging IOCs |
-| **Reconnaissance & Scanning** | Nmap, Service Enumeration, NSE Scripting, OS Detection |
-| **Systems & Environments** | Kali Linux, Linux System Hardening, Bash Shell, Windows Security |
-| **Blue Team Concepts** | Malware Traffic Pattern Recognition, C2 Beaconing Detection, Log Analysis |
+## Portfolio
 
----
+| Repository | Focus |
+| --- | --- |
+| [Network-Security-Labs](https://github.com/sumair00190/Network-Security-Labs) | Nmap, RootMe, and Wireshark malware-traffic analysis |
+| [OverTheWire-Natas-Solutions](https://github.com/sumair00190/OverTheWire-Natas-Solutions) | Completed Natas: web-security concepts and challenge notes |
+| [OverTheWire-Bandit-Solutions](https://github.com/sumair00190/OverTheWire-Bandit-Solutions) | Completed Bandit: Linux commands and challenge notes |
 
-## Active Learning & Certifications
+## Opportunities and contact
 
-* **Hands-on Labs:** PortSwigger Web Security Academy (in progress), TryHackMe, OverTheWire (Bandit Completed)
-* **Certification Path:** Preparing for **CompTIA Security+** & **ISC2 CC**
-* **Currently:** Web Application Security (PortSwigger Web Security Academy, Burp Suite)
-* **Later:** Attack & Detect Lab with Splunk
+Interested in SOC/blue-team internships and cybersecurity apprenticeships in Karachi or remotely.
 
----
-
-## Key Security Portfolios
-
-* **[Network-Security-Labs](https://github.com/sumair00190/Network-Security-Labs)**  
-  *Detailed writeups and incident-style documentation for Wireshark malware traffic captures (Lumma Stealer, Kongtuke ClickFix), Nmap scanning workflows, and CTF challenges.*
-
-* **[OverTheWire-Natas-Solutions](https://github.com/sumair00190/OverTheWire-Natas-Solutions)**  
-  *Walkthroughs, detailed writeups, and concept notes for OverTheWire Natas web application security wargame.*
-
-* **[OverTheWire-Bandit-Solutions](https://github.com/sumair00190/OverTheWire-Bandit-Solutions)**  
-  *Complete walkthroughs, solutions, and command cheat-sheet for Linux CLI fundamentals and privilege navigation (OverTheWire Bandit).*
----
-
-## Let's Connect
-
-* **LinkedIn:** [linkedin.com/in/sumair-soc](https://www.linkedin.com/in/sumair-soc)
-
----
-
-> *"Security is not a product, but a process."* – Bruce Schneier
+[LinkedIn](https://www.linkedin.com/in/sumair-soc/)
