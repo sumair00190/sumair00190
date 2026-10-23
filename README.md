@@ -1,7 +1,6 @@
 # Muhammad Sumair
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sumair-soc)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumairsohail1234@gmail.com)
 
 **Aspiring SOC Analyst & Security Researcher** | BS CNS Student @ SSUET  
 *Focusing on Network Forensics, Malware Traffic Analysis, Threat Detection & Blue Team Operations.*
@@ -52,7 +51,6 @@ I am a Computer Network & Security student dedicated to mastering defensive cybe
 ## Let's Connect
 
 * **LinkedIn:** [linkedin.com/in/sumair-soc](https://www.linkedin.com/in/sumair-soc)
-* **Email:** [sumairsohail1234@gmail.com](mailto:sumairsohail1234@gmail.com)
 
 ---
 
